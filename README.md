@@ -1,0 +1,2 @@
+# Extracting_tweets_using_tweepy
+Here we are using twitter API to extract tweets related with brands of our interest and also we are getting the images associated with the tweet. Every tweet is then passed through google's sentimental analysis API and tweet is classified into positive, negative or nuetral. Images are passed through object localization and CNN model to identify logos present in the image. All this information is then collected and visualized in tableau (data visualization tool)
